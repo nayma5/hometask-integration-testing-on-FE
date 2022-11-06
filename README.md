@@ -1,10 +1,9 @@
 # Hometask-integration-testing-on-FE
 
-<!-- HOW TO RUN -->
 ## 1st Hometask
 This is the 1st hometask of QA Automation Bootcamp
 
-## How to run
+## How to install the project and run the tests
 
 Please follow the below instructions to run this project in your computer:
 
